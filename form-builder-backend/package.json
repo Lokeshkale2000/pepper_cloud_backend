@@ -16,6 +16,6 @@
     "express": "^4.21.1",
     "form-builder-backend": "file:",
     "mongoose": "^8.8.1",
-    "vercel": "^37.14.0"
+    "vercel": "^32.3.0"
   }
 }
