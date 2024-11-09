@@ -15,6 +15,7 @@
     "cors": "^2.8.5",
     "express": "^4.21.1",
     "form-builder-backend": "file:",
-    "mongoose": "^8.8.1"
+    "mongoose": "^8.8.1",
+    "vercel": "^37.14.0"
   }
 }
